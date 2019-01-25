@@ -1,0 +1,44 @@
+body{
+	background-color:black;
+	color:white;
+	background-image:url('../images/background_body.jpg');
+	background-attachment:fixed;
+	background-position:center;
+}
+
+::-webkit-scrollbar{
+	width:8px;
+	height:8px;
+	background:rgba(255,255,0,0.5);
+}
+
+::-webkit-scrollbar-corner{
+	width:8px;
+	height:8px;
+	background:rgba(255,255,0,1);
+}
+
+div.main_div{
+	margin:0 auto;
+	padding:0 0;
+	width:1024px;
+	height:640px;
+	overflow:auto;
+	border:2px solid yellow;
+
+	background-image:url('../images/background.png');
+	
+	background-repeat:no-repeat;
+	/*
+	background-attachment:fixed;
+	background-position:center;
+	*/
+	}
+	
+div.hr{
+	width:1024px;
+	height:2px;
+	background:yellow;
+	border:1px solid black;
+}
+

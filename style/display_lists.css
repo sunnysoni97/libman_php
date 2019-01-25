@@ -1,0 +1,32 @@
+table.large{
+	width:1024px;
+	text-align:center;
+}
+
+th{
+	border: 1px solid rgb(210,210,0);
+	background:rgba(200,0,0,0.7);
+}
+
+td{
+	background:rgba(200,70,0,0.7);
+	border:1px solid rgb(160,160,0);
+	text-align:center;
+}
+
+a:active{
+	color:rgba(200,200,255,0.7);
+	text-decoration:none;
+}
+a:link{
+	color:rgba(200,200,255,0.7);
+	text-decoration:none;
+}
+a:visited{
+	color:rgba(200,200,255,0.7);
+	text-decoration:none;
+}
+a:hover{
+	color:rgba(200,200,255,1);
+	text-decoration:none;
+}
