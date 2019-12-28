@@ -64,16 +64,17 @@ From there, you can create/manage new accounts to work upon.
    <img src="https://github.com/sunnysoni97/sunnysoni97.github.io/blob/master/static/skills_applied/portfolio_screencaps/libman_screencaps/cap1.png?raw=true" alt="libman php screenshot 1" width=300px />
     &emsp;
    <img src="https://github.com/sunnysoni97/sunnysoni97.github.io/blob/master/static/skills_applied/portfolio_screencaps/libman_screencaps/cap2.png?raw=true" alt="libman php screenshot 2" width=300px />
-   &emsp;
-   <img src="https://github.com/sunnysoni97/sunnysoni97.github.io/blob/master/static/skills_applied/portfolio_screencaps/libman_screencaps/cap3.png?raw=true" alt="libman php screenshot 3" width=300px />
-
 </p>
-
 <p float="left">
-   <img src="https://github.com/sunnysoni97/sunnysoni97.github.io/blob/master/static/skills_applied/portfolio_screencaps/libman_screencaps/cap4.png?raw=true" alt="libman php screenshot 4" width=300px />
+
+   <img src="https://github.com/sunnysoni97/sunnysoni97.github.io/blob/master/static/skills_applied/portfolio_screencaps/libman_screencaps/cap3.png?raw=true" alt="libman php screenshot 3" width=300px />
     &emsp;
-   <img src="https://github.com/sunnysoni97/sunnysoni97.github.io/blob/master/static/skills_applied/portfolio_screencaps/libman_screencaps/cap5.png?raw=true" alt="libman php screenshot 5" width=300px />
+   <img src="https://github.com/sunnysoni97/sunnysoni97.github.io/blob/master/static/skills_applied/portfolio_screencaps/libman_screencaps/cap4.png?raw=true" alt="libman php screenshot 4" width=300px />
+
 </p>
+   
+   <img src="https://github.com/sunnysoni97/sunnysoni97.github.io/blob/master/static/skills_applied/portfolio_screencaps/libman_screencaps/cap5.png?raw=true" alt="libman php screenshot 5" width=300px />
+
 
 ---
 
